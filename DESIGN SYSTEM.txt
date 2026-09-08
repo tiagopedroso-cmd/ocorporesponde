@@ -1,0 +1,1108 @@
+DESIGN SYSTEM — LANDING PAGE “O CORPO RESPONDE”
+
+Crie uma Landing Page premium, moderna, responsiva e focada em conversão para a marca:
+
+O CORPO RESPONDE
+Serviço: Análise Corporal / Autoconhecimento
+
+IMPORTANTE:
+Este prompt define o Design System e a direção visual do projeto.
+Mantenha consistência absoluta entre todas as seções e componentes criados.
+
+==================================================
+1. CONCEITO CENTRAL DA IDENTIDADE
+==================================================
+
+A identidade visual deve transmitir:
+
+• Clareza
+• Profundidade
+• Autoconhecimento
+• Confiança
+• Acolhimento
+• Autoridade
+• Sofisticação
+• Organização
+
+Conceito visual central:
+
+“Seu corpo é um mapa. Aprenda a compreendê-lo.”
+
+A Landing Page deve comunicar visualmente que existem padrões por trás da maneira como uma pessoa pensa, sente, reage e se relaciona.
+
+Utilize referências visuais sutis relacionadas a:
+
+• mapas;
+• trajetórias;
+• linhas corporais;
+• contornos humanos;
+• conexões;
+• caminhos;
+• pontos de análise;
+• padrões;
+• movimento.
+
+Esses elementos devem ser abstratos e sofisticados.
+
+NÃO transformar a página em uma interface médica.
+
+NÃO utilizar estética de hospital, consultório clínico ou laboratório.
+
+NÃO utilizar estética genérica de psicologia baseada excessivamente em bege, folhas, pedras, flores ou elementos zen.
+
+A marca deve ocupar um território visual intermediário entre:
+
+AUTOCONHECIMENTO + ANÁLISE + PREMIUM.
+
+==================================================
+2. ESTILO VISUAL
+==================================================
+
+Direção:
+
+Minimalismo editorial contemporâneo.
+
+A página deve ter:
+
+• bastante espaço negativo;
+• seções amplas;
+• títulos grandes;
+• poucos elementos decorativos;
+• forte hierarquia tipográfica;
+• fotografia premium;
+• contraste entre áreas claras e escuras;
+• cards organizados;
+• microinterações discretas;
+• sensação de produto/serviço de alto valor.
+
+Evitar aparência de template pronto.
+
+Evitar aparência excessivamente “SaaS”.
+
+Evitar excesso de gradientes.
+
+Evitar glassmorphism exagerado.
+
+Evitar excesso de sombras.
+
+Evitar excesso de ícones.
+
+Evitar elementos que pareçam gerados por IA.
+
+==================================================
+3. PALETA PRINCIPAL
+==================================================
+
+AZUL PROFUNDO — COR DOMINANTE
+
+Primary 900:
+#092B38
+
+Uso:
+• grandes fundos;
+• Hero;
+• footer;
+• seções de alto contraste;
+• títulos sobre fundos claros;
+• componentes importantes.
+
+Primary 800:
+#123B4E
+
+Uso:
+• cards escuros;
+• áreas secundárias;
+• containers;
+• estados alternativos.
+
+Primary 700:
+#1C4961
+
+Uso:
+• componentes secundários;
+• detalhes;
+• elementos gráficos.
+
+Primary 600:
+#214F68
+
+Uso:
+• borders;
+• hover;
+• elementos auxiliares.
+
+O azul profundo deve representar aproximadamente 60–70% da percepção visual da marca.
+
+==================================================
+4. COR DE DESTAQUE — TURQUESA
+==================================================
+
+Accent 700:
+#238E83
+
+Accent 600:
+#32A89A
+
+Accent 500:
+#42B4A3
+
+Accent 300:
+#8BD5CA
+
+Accent 100:
+#DDF3EF
+
+A cor principal de destaque é:
+
+#42B4A3
+
+Utilizar para:
+
+• CTAs;
+• elementos ativos;
+• números;
+• pequenos detalhes;
+• links;
+• ícones;
+• palavras importantes;
+• calendário;
+• indicadores;
+• elementos gráficos.
+
+O turquesa representa:
+
+DESCOBERTA + MOVIMENTO + AÇÃO.
+
+Não utilizar turquesa em grandes quantidades.
+
+Ele deve chamar atenção justamente porque aparece pontualmente.
+
+==================================================
+5. CORES NEUTRAS
+==================================================
+
+Background principal:
+#F7F9F8
+
+Surface:
+#FFFFFF
+
+Background alternativo:
+#EEF3F2
+
+Border:
+#DCE5E4
+
+Texto principal:
+#17323B
+
+Texto secundário:
+#52656B
+
+Muted:
+#A6B4B5
+
+Branco:
+#FFFFFF
+
+Evitar utilizar #FFFFFF como background de todas as seções.
+
+Alternar entre:
+
+#F7F9F8
+#FFFFFF
+#EEF3F2
+#092B38
+#123B4E
+
+para criar ritmo visual.
+
+==================================================
+6. TIPOGRAFIA
+==================================================
+
+Fonte principal:
+
+MANROPE
+
+Fallback:
+
+"Manrope", "Plus Jakarta Sans", "Inter", sans-serif
+
+A tipografia deve ser limpa, contemporânea e sofisticada.
+
+Não utilizar fontes excessivamente arredondadas.
+
+Não utilizar fontes futuristas.
+
+Não utilizar fontes manuscritas.
+
+Não utilizar serifas como fonte principal.
+
+H1
+56–64px desktop
+40–46px tablet
+34–40px mobile
+font-weight: 700
+line-height: 1.05–1.10
+letter-spacing: -0.02em
+
+H2
+42–48px desktop
+34–38px tablet
+30–34px mobile
+font-weight: 650–700
+line-height: 1.10–1.15
+
+H3
+28–32px
+font-weight: 600–700
+line-height: 1.2
+
+H4
+20–22px
+font-weight: 600
+
+Lead
+20–22px
+font-weight: 400
+line-height: 1.5
+
+Body
+16–18px
+font-weight: 400
+line-height: 1.6
+
+Small
+14px
+font-weight: 400–500
+
+Eyebrow / Label
+13–14px
+font-weight: 600
+letter-spacing: 0.02em
+
+Não utilizar uppercase em grandes títulos.
+
+==================================================
+7. DESTAQUES TIPOGRÁFICOS
+==================================================
+
+Destacar apenas palavras ou pequenos trechos estratégicos.
+
+Exemplo:
+
+“Entenda como seus padrões podem influenciar
+RELACIONAMENTOS, DECISÕES E COMPORTAMENTOS.”
+
+Em fundos claros:
+
+Texto:
+#17323B
+
+Destaque:
+#238E83
+
+Em fundos escuros:
+
+Texto:
+#FFFFFF
+
+Destaque:
+#42B4A3
+
+Não utilizar gradiente dentro dos textos.
+
+Não utilizar marca-texto amarelo.
+
+==================================================
+8. GRID E CONTAINER
+==================================================
+
+Desktop:
+
+max-width:
+1200px
+
+Aceitável:
+1180–1240px
+
+Grid:
+12 colunas
+
+Gap:
+24px
+
+Padding lateral desktop:
+32px
+
+Tablet:
+24–32px
+
+Mobile:
+20–24px
+
+Nunca deixar conteúdo importante encostado nas bordas da viewport.
+
+==================================================
+9. SISTEMA DE ESPAÇAMENTO
+==================================================
+
+Utilizar sistema baseado em 8px.
+
+Valores preferenciais:
+
+8px
+16px
+24px
+32px
+40px
+48px
+64px
+80px
+96px
+120px
+
+Espaçamento vertical entre grandes seções:
+
+Desktop:
+96–120px
+
+Tablet:
+80–96px
+
+Mobile:
+64–80px
+
+Título → descrição:
+20–24px
+
+Descrição → CTA:
+28–32px
+
+Gap entre cards:
+20–24px
+
+==================================================
+10. BORDER RADIUS
+==================================================
+
+Evitar interfaces excessivamente arredondadas.
+
+Escala:
+
+Small:
+8px
+
+Button:
+10px
+
+Card:
+16px
+
+Featured Card:
+20px
+
+Large Image:
+24px
+
+Large Container:
+24–32px
+
+Não transformar todos os componentes em pills.
+
+Pills podem existir apenas para:
+
+• tags;
+• labels;
+• pequenos status;
+• eyebrow.
+
+==================================================
+11. SOMBRAS
+==================================================
+
+Sombras extremamente discretas.
+
+Card padrão:
+
+0 8px 30px rgba(9,43,56,.06)
+
+Card elevado:
+
+0 18px 50px rgba(9,43,56,.10)
+
+CTA:
+
+0 8px 24px rgba(66,180,163,.20)
+
+Dar preferência para:
+
+CONTRASTE + BORDAS + ESPAÇO
+
+em vez de sombras fortes.
+
+==================================================
+12. BOTÃO PRIMÁRIO
+==================================================
+
+Função:
+
+AGENDAMENTO.
+
+Exemplos de texto:
+
+“Agendar minha análise”
+“Escolher um horário”
+“Quero fazer minha análise”
+
+Background:
+#42B4A3
+
+Texto:
+#092B38
+
+Altura:
+54–58px
+
+Padding horizontal:
+28–32px
+
+Border-radius:
+10px
+
+Font-weight:
+600
+
+Adicionar ícone discreto de seta à direita.
+
+Hover:
+
+background:
+#32A89A
+
+Aplicar pequena transição:
+
+150–250ms
+
+Pode existir leve deslocamento vertical no hover:
+
+translateY(-1px)
+
+Não utilizar animações chamativas.
+
+==================================================
+13. BOTÃO SECUNDÁRIO — WHATSAPP
+==================================================
+
+O WhatsApp é uma conversão secundária.
+
+Texto:
+
+“Falar pelo WhatsApp”
+
+Preferencialmente:
+
+background transparente
+
+border:
+1px solid #42B4A3
+
+texto:
+#42B4A3
+
+ícone:
+WhatsApp
+
+Hover:
+
+background:
+rgba(66,180,163,.08)
+
+IMPORTANTE:
+
+O botão de AGENDAMENTO deve possuir maior destaque visual do que o WhatsApp.
+
+A hierarquia deve ser:
+
+1. AGENDAR
+2. WHATSAPP
+
+==================================================
+14. INPUTS
+==================================================
+
+Altura:
+54px
+
+Border-radius:
+8px
+
+Background:
+#FFFFFF
+
+Border:
+1px solid #DCE5E4
+
+Padding:
+0 16px
+
+Label:
+
+14px
+font-weight: 600
+color: #17323B
+
+Placeholder:
+
+#A6B4B5
+
+Focus:
+
+border-color:
+#42B4A3
+
+box-shadow:
+0 0 0 3px rgba(66,180,163,.12)
+
+Inputs devem possuir labels visíveis.
+
+Não depender apenas de placeholder.
+
+==================================================
+15. CARDS
+==================================================
+
+CARD PADRÃO
+
+background:
+#FFFFFF
+
+border:
+1px solid #DCE5E4
+
+border-radius:
+16px
+
+padding:
+28–32px
+
+shadow:
+0 8px 30px rgba(9,43,56,.06)
+
+
+CARD ESCURO
+
+background:
+#123B4E
+
+texto:
+#FFFFFF
+
+detalhes:
+#42B4A3
+
+border-radius:
+16–20px
+
+
+CARD DE DESTAQUE
+
+Pode utilizar:
+
+background:
+#DDF3EF
+
+texto:
+#17323B
+
+Não utilizar dezenas de estilos diferentes de cards.
+
+==================================================
+16. CARDS DOS TRAÇOS DE CARÁTER
+==================================================
+
+Criar uma linguagem própria para os cinco traços.
+
+Cada card pode possuir:
+
+número;
+nome;
+principal recurso;
+descrição;
+link ou indicador de exploração.
+
+Exemplo:
+
+01
+
+ESQUIZOIDE
+
+Criatividade e raciocínio
+
+[descrição]
+
+→ Conheça este traço
+
+Números podem aparecer grandes no background com baixa opacidade.
+
+Todos os cards devem permanecer dentro da mesma paleta.
+
+NÃO criar uma cor diferente para cada traço.
+
+==================================================
+17. ICONOGRAFIA
+==================================================
+
+Utilizar ícones:
+
+outline;
+minimalistas;
+stroke entre 1.5 e 2px.
+
+Bibliotecas sugeridas:
+
+Lucide Icons
+Phosphor Icons
+
+Cores:
+
+#17323B
+#42B4A3
+#FFFFFF
+
+dependendo do background.
+
+Não utilizar:
+
+emojis;
+ícones 3D;
+ícones excessivamente ilustrativos;
+ícones multicoloridos.
+
+==================================================
+18. ELEMENTO GRÁFICO DA MARCA
+==================================================
+
+Criar uma linguagem gráfica baseada no conceito:
+
+“SEU CORPO É UM MAPA.”
+
+Utilizar linhas abstratas inspiradas em:
+
+• mapas topográficos;
+• contornos humanos;
+• caminhos;
+• conexões;
+• trajetórias.
+
+As linhas podem atravessar determinadas seções discretamente.
+
+Utilizar:
+
+#42B4A3
+
+com aproximadamente:
+
+5–12% de opacidade.
+
+Em fundos escuros, algumas linhas podem possuir maior visibilidade.
+
+Também podem existir pequenos pontos/nós nas linhas.
+
+O resultado deve parecer sofisticado e abstrato.
+
+NÃO parecer ilustração anatômica.
+
+NÃO parecer mapa geográfico literal.
+
+NÃO parecer interface tecnológica futurista.
+
+==================================================
+19. FOTOGRAFIA
+==================================================
+
+Priorizar fotografia real.
+
+Retratos do profissional devem transmitir:
+
+• autoridade;
+• confiança;
+• proximidade;
+• tranquilidade;
+• naturalidade.
+
+Utilizar variações:
+
+• olhando para câmera;
+• sentado;
+• em pé;
+• durante atendimento;
+• postura natural.
+
+Evitar:
+
+• poses exageradas;
+• sorriso artificial;
+• estética de médico;
+• jaleco;
+• estetoscópio;
+• ambientes hospitalares;
+• fotografias genéricas de banco de imagens.
+
+Fotografias conceituais podem mostrar:
+
+• postura corporal;
+• movimento;
+• pessoas refletindo;
+• interação humana;
+• detalhes de mãos;
+• silhuetas;
+• diferentes posições corporais.
+
+Direção:
+
+fotografia editorial premium.
+
+==================================================
+20. HERO
+==================================================
+
+Hero preferencialmente em:
+
+#092B38
+
+Layout desktop:
+
+aproximadamente 50/50.
+
+Conteúdo à esquerda.
+
+Fotografia do profissional à direita.
+
+Adicionar elemento gráfico de mapa/linhas atrás ou ao redor da fotografia.
+
+Eyebrow pequeno.
+
+H1 grande.
+
+Descrição curta.
+
+CTA primário.
+
+CTA WhatsApp secundário.
+
+Microcopy abaixo:
+
+“Atendimento online • Agendamento em poucos minutos”
+
+O conteúdo principal deve aparecer acima da dobra em desktop.
+
+Não sobrecarregar o Hero.
+
+==================================================
+21. AGENDADOR
+==================================================
+
+O agendamento é a PRINCIPAL conversão da Landing Page.
+
+Criar interface integrada visualmente ao Design System.
+
+Não deixar o Google Calendar parecer simplesmente incorporado à página.
+
+Criar container próprio.
+
+Card:
+
+background:
+#FFFFFF
+
+border:
+1px solid #DCE5E4
+
+border-radius:
+20px
+
+padding:
+32px
+
+Título sugerido:
+
+“Escolha o melhor horário para sua análise”
+
+Descrição:
+
+“Consulte os horários disponíveis em tempo real.”
+
+CALENDÁRIO
+
+Dia normal:
+#FFFFFF
+
+Dia disponível:
+#DDF3EF
+
+Selecionado:
+#42B4A3
+
+Hoje:
+border #42B4A3
+
+Indisponível:
+#EEF3F2
+
+HORÁRIOS
+
+Mostrar opções em botões/cards.
+
+Exemplo:
+
+09:00
+10:30
+14:00
+15:30
+
+Horário selecionado:
+
+background:
+#092B38
+
+texto:
+#FFFFFF
+
+O fluxo ideal é:
+
+1. Escolher data
+2. Escolher horário
+3. Informar dados
+4. Revisar
+5. Confirmar
+6. Mostrar confirmação
+
+Sempre deixar claro em qual etapa o usuário está.
+
+==================================================
+22. WHATSAPP
+==================================================
+
+WhatsApp deve servir principalmente para:
+
+• tirar dúvidas;
+• conversar antes do atendimento;
+• resolver dificuldades no agendamento.
+
+Não deixar o WhatsApp competir visualmente com o agendamento.
+
+No desktop pode existir botão flutuante discreto.
+
+No mobile criar barra inferior fixa:
+
+[ WhatsApp ] [ Agendar análise ]
+
+Distribuição aproximada:
+
+WhatsApp:
+35%
+
+Agendar:
+65%
+
+O botão de agendamento deve possuir maior contraste.
+
+==================================================
+23. MICROINTERAÇÕES
+==================================================
+
+Utilizar animações suaves.
+
+Duração:
+
+150–350ms.
+
+Permitido:
+
+• fade;
+• translateY discreto;
+• hover em cards;
+• mudança suave de border;
+• pequenos movimentos das linhas gráficas;
+• transições do calendário;
+• accordion suave;
+• indicadores de progresso.
+
+Evitar:
+
+• parallax exagerado;
+• elementos pulando;
+• animações infinitas chamativas;
+• textos entrando de todas as direções;
+• efeitos 3D desnecessários.
+
+A animação deve transmitir refinamento, não espetáculo.
+
+==================================================
+24. RESPONSIVIDADE
+==================================================
+
+Mobile-first.
+
+No mobile:
+
+• H1 menor;
+• cards em uma coluna;
+• CTAs largos;
+• botões com área de toque mínima de 48px;
+• textos confortáveis;
+• calendário totalmente utilizável;
+• barra fixa de conversão;
+• imagens reposicionadas;
+• elementos gráficos simplificados.
+
+Evitar simplesmente reduzir a versão desktop.
+
+A experiência mobile deve ser projetada especificamente.
+
+==================================================
+25. ACESSIBILIDADE
+==================================================
+
+Manter contraste adequado.
+
+Nunca usar turquesa claro para textos pequenos sobre branco.
+
+Inputs devem possuir label.
+
+Botões devem possuir estados:
+
+default;
+hover;
+focus;
+active;
+disabled.
+
+Elementos clicáveis:
+
+mínimo 44–48px.
+
+Adicionar focus-visible.
+
+Utilizar HTML semântico.
+
+Respeitar prefers-reduced-motion.
+
+==================================================
+26. EXPERIÊNCIA DE CONVERSÃO
+==================================================
+
+Toda a página deve conduzir naturalmente para:
+
+AGENDAR UMA ANÁLISE.
+
+Não colocar CTA em absolutamente todas as seções.
+
+Utilizar CTAs estrategicamente após momentos importantes de convencimento.
+
+O usuário deve entender rapidamente:
+
+1. O que é oferecido.
+2. Para quem é.
+3. O que pode descobrir.
+4. Como funciona.
+5. Quem realiza.
+6. Por que confiar.
+7. Como agendar.
+8. Como tirar dúvidas.
+
+Sempre que houver duas opções:
+
+AGENDAR deve ter prioridade.
+
+WHATSAPP deve ser suporte.
+
+==================================================
+27. SENSAÇÃO FINAL
+==================================================
+
+Ao terminar a página, o usuário deve perceber:
+
+“Existe profundidade aqui.”
+
+“Isso parece profissional.”
+
+“Eu consigo entender a proposta.”
+
+“Não parece uma terapia genérica.”
+
+“Quero descobrir como eu funciono.”
+
+“É fácil marcar meu atendimento.”
+
+O resultado visual deve parecer desenvolvido por um designer profissional e não por um gerador automático de Landing Pages.
+
+A marca deve possuir personalidade própria.
+
+Use a identidade:
+
+AZUL PROFUNDO
++
+TURQUESA
++
+OFF-WHITE
++
+TIPOGRAFIA FORTE
++
+FOTOGRAFIA EDITORIAL
++
+MAPAS/LINHAS CORPORAIS
+
+como linguagem consistente de toda a experiência.
+
+==================================================
+28. TOKENS CSS DE REFERÊNCIA
+==================================================
+
+:root {
+  --primary-900: #092B38;
+  --primary-800: #123B4E;
+  --primary-700: #1C4961;
+  --primary-600: #214F68;
+
+  --accent-700: #238E83;
+  --accent-600: #32A89A;
+  --accent-500: #42B4A3;
+  --accent-300: #8BD5CA;
+  --accent-100: #DDF3EF;
+
+  --background: #F7F9F8;
+  --surface: #FFFFFF;
+  --surface-alt: #EEF3F2;
+
+  --text: #17323B;
+  --text-secondary: #52656B;
+  --muted: #A6B4B5;
+  --border: #DCE5E4;
+
+  --radius-sm: 8px;
+  --radius-button: 10px;
+  --radius-md: 16px;
+  --radius-lg: 24px;
+
+  --shadow-card: 0 8px 30px rgba(9,43,56,.06);
+  --shadow-elevated: 0 18px 50px rgba(9,43,56,.10);
+
+  --container: 1200px;
+}
+
+REGRA FINAL:
+
+Sempre que houver dúvida entre adicionar mais um elemento visual ou preservar espaço vazio, prefira preservar o espaço.
+
+A Landing Page de O Corpo Responde deve parecer:
+
+PREMIUM
+HUMANA
+PROFUNDA
+ORGANIZADA
+CONTEMPORÂNEA
+
+e nunca genérica.
