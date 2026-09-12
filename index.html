@@ -120,6 +120,17 @@
     @media(max-width:1100px){.site-header .mobile-menu.open{display:grid!important}.analyst-card{grid-template-columns:1fr}.analyst-photo{max-width:480px;justify-self:center}.analyst-card .prose{padding:28px}}
     .hero>.hero-stage{grid-template-columns:minmax(0,1fr)}.hero-photo{grid-area:1/1;width:100%;height:auto}.hero-copy{grid-area:2/1;padding:28px 24px;max-width:760px;justify-self:center}.hero-copy h1{font-size:clamp(1.9rem,5vw,3rem)}.hero-calendar{grid-area:3/1;margin:0 auto 24px;width:calc(100% - 32px);padding:16px 12px}
     }
+    /* Mobile/tablet Hero only; desktop retains its existing layout. */
+    .hero-mobile-booking{display:none}
+    @media(max-width:1100px){
+      .hero .hero-calendar,.hero .hero-subtitle{display:none!important}
+      .hero>.hero-stage{grid-template-columns:56% minmax(0,44%)}
+      .hero .hero-photo{grid-area:1/1/2/3}
+      .hero .hero-copy{grid-area:1/2;align-self:center;justify-self:stretch;width:100%;max-width:none;padding:clamp(8px,2vw,22px);margin:0;text-align:left;align-items:flex-start}
+      .hero .hero-copy h1{font-size:clamp(.8rem,3.5vw,2.4rem);line-height:1.15;gap:.3em;margin:0;letter-spacing:-.02em}
+      .hero .hero-line--lower{margin-top:.3em}
+      .hero-mobile-booking{grid-area:2/1/3/3;display:flex;justify-self:center;width:calc(100% - 32px);max-width:420px;margin:20px 16px;position:relative;z-index:5}
+    }
   </style>
 </head>
 <body>
@@ -141,6 +152,7 @@
           <h1><span class="hero-line">Seu CORPO REVELA quem você é.</span><span class="hero-line hero-line--lower">Aprenda a INTERPRETAR</span><span class="hero-line">OS SINAIS.</span></h1>
           <p class="hero-subtitle"><span>Você deixa de olhar apenas para “o que eu faço?”</span><span>e começa a investigar: “por que eu funciono dessa maneira?”</span></p>
         </div>
+        <a class="btn btn--primary hero-mobile-booking" href="#agendamento">Agendar minha análise <span aria-hidden="true">→</span></a>
         <div class="hero-calendar reveal" aria-label="Agendamento rápido">
           <div class="hero-calendar-head"><strong>Agendamento rápido</strong></div>
           <div class="quick-week-row"><button class="quick-week-nav" id="quick-prev-week" type="button" aria-label="Semana anterior">←</button><div class="quick-days" id="quick-days" aria-label="Dias da semana"></div><button class="quick-week-nav" id="quick-next-week" type="button" aria-label="Próxima semana">→</button></div>
