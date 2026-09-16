@@ -212,6 +212,8 @@
     }
     /* Full-section analysis background */
     #analise{min-height:56.28vw;padding:64px 0;background-color:#edf3f3;background-image:linear-gradient(90deg,transparent 42%,rgba(237,243,243,.7) 58%,rgba(237,243,243,.25)),url("alberto-analise.png");background-size:cover;background-position:center;background-repeat:no-repeat;display:flex;justify-content:center}#analise .analysis-intro{display:flex;justify-content:flex-end;align-items:center;width:calc(100% - 80px);max-width:1440px}#analise .analysis-copy{width:48%;min-width:0}#analise h2{font-size:clamp(2rem,3vw,3.2rem);line-height:1.12}#analise .btn{max-width:100%;white-space:normal;text-align:center}@media(max-width:1100px){#analise{min-height:0;padding:calc(56.28vw + 24px) 0 48px;background-size:100% auto;background-position:center top}#analise .analysis-intro{width:calc(100% - 40px);max-width:760px}#analise .analysis-copy{width:100%}#analise h2{font-size:clamp(1.9rem,4.5vw,2.7rem)}}
+    /* Fit analysis scene within one desktop viewport, below the floating navigation. */
+    @media(min-width:1101px){#analise{height:calc(100svh - 88px);min-height:480px;padding:24px 0;background-size:100% 100%,auto 100%;background-position:center,left bottom;scroll-margin-top:0}#analise h2{font-size:clamp(1.7rem,min(2.65vw,4.6svh),3.2rem);margin-bottom:clamp(16px,2.5svh,28px)}#analise .analysis-copy p{font-size:clamp(.875rem,1.7svh,1rem);line-height:1.55;margin-bottom:clamp(12px,2svh,24px)}}
   </style>
 </head>
 <body>
