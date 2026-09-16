@@ -41,7 +41,7 @@ Fazer novo deploy após configurar as variáveis. Abrir `/conectar-agenda.html`,
 ## Regras atuais a confirmar com o analista
 
 - Sessão: 90 minutos; fuso America/Sao_Paulo.
-- Segunda a sábado, das 08h às 22h (Brasília). Sessões de 90 minutos: 08:00, 09:30, 11:00, 12:30, 14:00, 15:30, 17:00, 18:30 e 20:00; último término às 21:30.
+- Segunda a sábado, das 08h às 22h (Brasília). Sessões de 90 minutos: 08:00, 09:30, 11:00, 12:30, 14:00, 15:30, 17:00, 18:30, 20:00 e 22:00; último término às 23:30.
 - Antecedência mínima: 2 horas; horizonte: 90 dias.
 - Reserva automática; convite por e-mail ao cliente.
 - Horários fixos sem sobreposição. Se mudar a grade ou duração para permitir sobreposição, substituir a reserva por slot por transação que proteja intervalos.
